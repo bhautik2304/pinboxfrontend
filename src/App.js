@@ -12,7 +12,7 @@ function App() {
 
 export default App;
 
-const apiHost="http://192.168.29.208:8000/api";
+const apiHost="http://127.0.0.1:8000/api";
 
 export const apiroutes ={
   employes:`${apiHost}/employes/`,
